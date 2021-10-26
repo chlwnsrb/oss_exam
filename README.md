@@ -1,3 +1,1 @@
-#오픈소스SW응용
-20183289 최준규
-https://github.com/chlwnsrb/oss_exam.git
+#새로운 브랜치의 오픈소스 SW 응용
